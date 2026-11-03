@@ -1,0 +1,19 @@
+
+================================================================================
+QUIZ ATTEMPT REPORT: ATT-747597
+================================================================================
+Date & Time    : 11/3/2026, 4:19:07 PM
+Candidate Name : Test Candidate
+Total Score    : 18 / 20 (90.0%)
+Status         : PASSED (PASS MARK >= 50%)
+Time Taken     : 10m 45s (out of 30m 00s)
+--------------------------------------------------------------------------------
+QUESTION-BY-QUESTION BREAKDOWN:
+--------------------------------------------------------------------------------
+01. [The Dying Sun] A few stars are known which are hardly bigger than the earth:
+    Underlined Word: "hardly"
+    Selected Option: (D) Scarcely
+    Correct Option : (D) Scarcely
+    Result         : [CORRECT]
+
+================================================================================

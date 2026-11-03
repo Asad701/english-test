@@ -1,0 +1,133 @@
+
+================================================================================
+QUIZ ATTEMPT REPORT: ATT-534345
+================================================================================
+Date & Time    : 11/3/2026, 6:12:14 PM
+Candidate Name : Uzair Kaleem Ullah
+Total Score    : 9 / 20 (45.0%)
+Status         : FAILED (BELOW 50%)
+Time Taken     : 6m 43s (out of 30m 00s)
+--------------------------------------------------------------------------------
+QUESTION-BY-QUESTION BREAKDOWN:
+--------------------------------------------------------------------------------
+01. [Mustafa Kamal] In Eastern Anatolia week by week little encounters increased.
+    Underlined Word: "encounters"
+    Selected Option: (D) Distance
+    Correct Option : (C) Skirmishes
+    Result         : [WRONG]
+
+02. [Hunger and Population Explosion] A tremendous population explosion is taking place.
+    Underlined Word: "tremendous"
+    Selected Option: (C) big
+    Correct Option : (C) big
+    Result         : [CORRECT]
+
+03. [Good-bye, Mr. Chips] Baiting the new master was exciting.
+    Underlined Word: "Baiting"
+    Selected Option: (D) Obeying
+    Correct Option : (A) Teasing
+    Result         : [WRONG]
+
+04. [Using the Scientific Method] Science has improved the way we spend our leisure time.
+    Underlined Word: "leisure"
+    Selected Option: (C) spare
+    Correct Option : (C) spare
+    Result         : [CORRECT]
+
+05. [End of Term] Waking up in the morning and seeing the hours of school stretching ahead was a dismal experience.
+    Underlined Word: "dismal"
+    Selected Option: (A) Tough
+    Correct Option : (D) Disappointing
+    Result         : [WRONG]
+
+06. [Louis Pasteur] Pasteur found the treatment of hydrophobia.
+    Underlined Word: "hydrophobia"
+    Selected Option: (D) typhoid
+    Correct Option : (C) rabies
+    Result         : [WRONG]
+
+07. [Sir Alexander Fleming] Lister's aim was the prevention of disease.
+    Underlined Word: "prevention"
+    Selected Option: (B) cure/protection
+    Correct Option : (C) Avoidance
+    Result         : [WRONG]
+
+08. [Good-bye, Mr. Chips] Chips remembered that event.
+    Underlined Word: "event"
+    Selected Option: (C) Incident
+    Correct Option : (C) Incident
+    Result         : [CORRECT]
+
+09. [China's Way to Progress] The Chinese peasant does not flee to the cities.
+    Underlined Word: "flee"
+    Selected Option: (B) escape
+    Correct Option : (B) escape
+    Result         : [CORRECT]
+
+10. [Hitch-Hiking Across the Sahara] He was firmly gripped by the wanderlust.
+    Underlined Word: "wanderlust"
+    Selected Option: (D) desire for travelling
+    Correct Option : (D) desire for travelling
+    Result         : [CORRECT]
+
+11. [China's Way to Progress] The occidental countries launched a warm hug to China.
+    Underlined Word: "occidental"
+    Selected Option: (B) Southern
+    Correct Option : (D) Western
+    Result         : [WRONG]
+
+12. [The Jewel of the World] Abdul Rehman administered the people with sagacity.
+    Underlined Word: "sagacity"
+    Selected Option: (A) wisdom
+    Correct Option : (A) wisdom
+    Result         : [CORRECT]
+
+13. [First Year at Harrow] The examiners sought to expose the ignorance of the writer.
+    Underlined Word: "expose"
+    Selected Option: (C) Appreciate
+    Correct Option : (D) Show
+    Result         : [WRONG]
+
+14. [Why Boys Fail in College] Boys undergoing transfusion of blood to get money for their food and books.
+    Underlined Word: "transfusion"
+    Selected Option: (C) Transfer
+    Correct Option : (C) Transfer
+    Result         : [CORRECT]
+
+15. [Hitch-Hiking Across the Sahara] The conditions were agonizing.
+    Underlined Word: "agonizing"
+    Selected Option: (B) Painful
+    Correct Option : (C) painful
+    Result         : [WRONG]
+
+16. [Good-bye, Mr. Chips] Chips was quiet.
+    Underlined Word: "quiet"
+    Selected Option: (D) Shouting
+    Correct Option : (A) Calm
+    Result         : [WRONG]
+
+17. [My Financial Career] He crossed the threshold of the banks.
+    Underlined Word: "threshold"
+    Selected Option: (C) Doorstep
+    Correct Option : (C) Doorstep
+    Result         : [CORRECT]
+
+18. [Louis Pasteur] Pasteur proved that spontaneous generation was not a fact.
+    Underlined Word: "spontaneous"
+    Selected Option: (B) Inactive
+    Correct Option : (D) Automatic
+    Result         : [WRONG]
+
+19. [China's Way to Progress] Political control over the masses stopped the exodus from the countryside.
+    Underlined Word: "exodus"
+    Selected Option: (A) reach
+    Correct Option : (C) migration
+    Result         : [WRONG]
+
+20. [Louis Pasteur] Pasteur's father bought a small tannery.
+    Underlined Word: "tannery"
+    Selected Option: (A) A place where tanning is carried on
+    Correct Option : (A) A place where tanning is carried on
+    Result         : [CORRECT]
+
+================================================================================

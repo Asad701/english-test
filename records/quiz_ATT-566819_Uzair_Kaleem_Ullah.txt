@@ -1,0 +1,133 @@
+
+================================================================================
+QUIZ ATTEMPT REPORT: ATT-566819
+================================================================================
+Date & Time    : 11/3/2026, 5:56:06 PM
+Candidate Name : Uzair Kaleem Ullah
+Total Score    : 5 / 20 (25.0%)
+Status         : FAILED (BELOW 50%)
+Time Taken     : 9m 13s (out of 30m 00s)
+--------------------------------------------------------------------------------
+QUESTION-BY-QUESTION BREAKDOWN:
+--------------------------------------------------------------------------------
+01. [Hunger and Population Explosion] A tremendous population explosion is taking place.
+    Underlined Word: "tremendous"
+    Selected Option: (C) big
+    Correct Option : (C) big
+    Result         : [CORRECT]
+
+02. [Good-bye, Mr. Chips] He remembered Brookfield.
+    Underlined Word: "Brookfield"
+    Selected Option: (C) Renowned
+    Correct Option : (A) Great
+    Result         : [WRONG]
+
+03. [Hitch-Hiking Across the Sahara] The driver picked his way with uncanny skill.
+    Underlined Word: "uncanny"
+    Selected Option: (A) Simple
+    Correct Option : (D) Remarkable
+    Result         : [WRONG]
+
+04. [Sir Alexander Fleming] And in the same year he hit on penicillin.
+    Underlined Word: "hit on"
+    Selected Option: (A) Saw
+    Correct Option : (D) Discovered
+    Result         : [WRONG]
+
+05. [Mustafa Kamal] The Turks vowed that death was preferable to rule by Greeks.
+    Underlined Word: "vowed"
+    Selected Option: (C) Repeated
+    Correct Option : (A) Swore
+    Result         : [WRONG]
+
+06. [Louis Pasteur] Pasteur's father bought a small tannery.
+    Underlined Word: "tannery"
+    Selected Option: (A) A place where tanning is carried on
+    Correct Option : (A) A place where tanning is carried on
+    Result         : [CORRECT]
+
+07. [First Year at Harrow] The examiners were partial to Latin and Mathematics.
+    Underlined Word: "partial"
+    Selected Option: (C) Biased
+    Correct Option : (C) Biased
+    Result         : [CORRECT]
+
+08. [My Financial Career] I came from a rival agency.
+    Underlined Word: "rival"
+    Selected Option: (B) secret
+    Correct Option : (C) opponent
+    Result         : [WRONG]
+
+09. [End of Term] Some holidays were reduced to a mere ten days:
+    Underlined Word: "mere"
+    Selected Option: (A) Only
+    Correct Option : (A) Only
+    Result         : [CORRECT]
+
+10. [On Destroying Books] I fancied he looked suspicious.
+    Underlined Word: "suspicious"
+    Selected Option: (A) comforted
+    Correct Option : (C) doubtful
+    Result         : [WRONG]
+
+11. [Using the Scientific Method] There is a little likelihood of their getting disease.
+    Underlined Word: "likelihood"
+    Selected Option: (A) liking
+    Correct Option : (D) probability
+    Result         : [WRONG]
+
+12. [Mustafa Kamal] The guns began almost instantly.
+    Underlined Word: "instantly"
+    Selected Option: (B) Slightly
+    Correct Option : (D) Immediately
+    Result         : [WRONG]
+
+13. [Why Boys Fail in College] There is no substitute for health.
+    Underlined Word: "substitute"
+    Selected Option: (C) aptitude
+    Correct Option : (B) alternative
+    Result         : [WRONG]
+
+14. [Sir Alexander Fleming] Metchnikoff, a pupil of Pasteur, revealed the true nature of the problem.
+    Underlined Word: "revealed"
+    Selected Option: (D) appreciated
+    Correct Option : (A) showed
+    Result         : [WRONG]
+
+15. [Louis Pasteur] He never shook off the physical effects of the disease.
+    Underlined Word: "shook off"
+    Selected Option: (D) Got rid of
+    Correct Option : (D) Got rid of
+    Result         : [CORRECT]
+
+16. [The Jewel of the World] It took him some years more to bring all of Spain to subjection, but he persisted.
+    Underlined Word: "persisted"
+    Selected Option: (C) perished
+    Correct Option : (A) continued
+    Result         : [WRONG]
+
+17. [Why Boys Fail in College] Any parent owes this much his son.
+    Underlined Word: "owes"
+    Selected Option: (A) Tells
+    Correct Option : (C) Indebted
+    Result         : [WRONG]
+
+18. [Good-bye, Mr. Chips] Chips was quiet.
+    Underlined Word: "quiet"
+    Selected Option: (B) Noisy
+    Correct Option : (A) Calm
+    Result         : [WRONG]
+
+19. [Mustafa Kamal] Allies dissolved the national assembly.
+    Underlined Word: "dissolved"
+    Selected Option: (A) Meditated
+    Correct Option : (D) Abolished
+    Result         : [WRONG]
+
+20. [China's Way to Progress] Cultural revolution freed China from cumbersome bureaucracy.
+    Underlined Word: "cumbersome"
+    Selected Option: (B) light
+    Correct Option : (C) burdensome
+    Result         : [WRONG]
+
+================================================================================

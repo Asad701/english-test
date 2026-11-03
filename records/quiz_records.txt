@@ -1,0 +1,684 @@
+
+================================================================================
+QUIZ ATTEMPT REPORT: ATT-747597
+================================================================================
+Date & Time    : 11/3/2026, 4:19:07 PM
+Candidate Name : Test Candidate
+Total Score    : 18 / 20 (90.0%)
+Status         : PASSED (PASS MARK >= 50%)
+Time Taken     : 10m 45s (out of 30m 00s)
+--------------------------------------------------------------------------------
+QUESTION-BY-QUESTION BREAKDOWN:
+--------------------------------------------------------------------------------
+01. [The Dying Sun] A few stars are known which are hardly bigger than the earth:
+    Underlined Word: "hardly"
+    Selected Option: (D) Scarcely
+    Correct Option : (D) Scarcely
+    Result         : [CORRECT]
+
+================================================================================
+
+================================================================================
+QUIZ ATTEMPT REPORT: ATT-744110
+================================================================================
+Date & Time    : 11/3/2026, 5:25:43 PM
+Candidate Name : Uzair Kaleem Ullah
+Total Score    : 5 / 20 (25.0%)
+Status         : FAILED (BELOW 50%)
+Time Taken     : 7m 54s (out of 30m 00s)
+--------------------------------------------------------------------------------
+QUESTION-BY-QUESTION BREAKDOWN:
+--------------------------------------------------------------------------------
+01. [Why Boys Fail in College] The parents whom I have offended usually come back.
+    Underlined Word: "offended"
+    Selected Option: (C) Frightened
+    Correct Option : (D) Annoyed
+    Result         : [WRONG]
+
+02. [Using the Scientific Method] All of us have benefitted greatly from the use of scientific method.
+    Underlined Word: "benefitted"
+    Selected Option: (B) Profited
+    Correct Option : (B) Profited
+    Result         : [CORRECT]
+
+03. [Good-bye, Mr. Chips] The boys looked like rascals.
+    Underlined Word: "rascals"
+    Selected Option: (A) Rascals
+    Correct Option : (B) Scoundrels
+    Result         : [WRONG]
+
+04. [First Year at Harrow] I continued in this unpretentious situation.
+    Underlined Word: "unpretentious"
+    Selected Option: (B) unpleasant
+    Correct Option : (D) Unassuming
+    Result         : [WRONG]
+
+05. [Good-bye, Mr. Chips] Chips remembered that event.
+    Underlined Word: "event"
+    Selected Option: (C) Incident
+    Correct Option : (C) Incident
+    Result         : [CORRECT]
+
+06. [Why Boys Fail in College] There is no substitute for health.
+    Underlined Word: "substitute"
+    Selected Option: (A) attitude
+    Correct Option : (B) alternative
+    Result         : [WRONG]
+
+07. [Why Boys Fail in College] Most colleges do all they can with scholarship funds to alleviate this situation.
+    Underlined Word: "alleviate"
+    Selected Option: (C) Arrest
+    Correct Option : (A) Assuage
+    Result         : [WRONG]
+
+08. [First Year at Harrow] But the only thing I would whip them for is not knowing English.
+    Underlined Word: "whip"
+    Selected Option: (D) Criticize
+    Correct Option : (C) Punish
+    Result         : [WRONG]
+
+09. [Hunger and Population Explosion] One of the first records of famine was carved in Granite.
+    Underlined Word: "carved"
+    Selected Option: (A) Engraved
+    Correct Option : (A) Engraved
+    Result         : [CORRECT]
+
+10. [Sir Alexander Fleming] Fleming was not happy in the lime-light.
+    Underlined Word: "lime-light"
+    Selected Option: (A) money
+    Correct Option : (B) fame
+    Result         : [WRONG]
+
+11. [First Year at Harrow] The talented students won prizes for writing pithy Greek epigrams.
+    Underlined Word: "pithy"
+    Selected Option: (C) Easy
+    Correct Option : (B) Concise
+    Result         : [WRONG]
+
+12. [The Dying Sun] Stretches of space beyond the Milky Way.
+    Underlined Word: "Milky Way"
+    Selected Option: (A) The marks
+    Correct Option : (B) Collection of stars
+    Result         : [WRONG]
+
+13. [The Dying Sun] Gradually they became cooler.
+    Underlined Word: "Gradually"
+    Selected Option: (C) Systematically
+    Correct Option : (D) Slowly and by degrees
+    Result         : [WRONG]
+
+14. [The Man Who Was a Hospital] Zymosis I had evidently been suffering from boyhood.
+    Underlined Word: "evidently"
+    Selected Option: (C) Secretly
+    Correct Option : (D) Clearly
+    Result         : [WRONG]
+
+15. [First Year at Harrow] I learnt English thoroughly.
+    Underlined Word: "thoroughly"
+    Selected Option: (A) specially
+    Correct Option : (D) completely
+    Result         : [WRONG]
+
+16. [Sir Alexander Fleming] Fleming plated the mould on meat broth.
+    Underlined Word: "broth"
+    Selected Option: (D) Suite
+    Correct Option : (A) Soup
+    Result         : [WRONG]
+
+17. [On Destroying Books] The pedestrian was only a tramp.
+    Underlined Word: "tramp"
+    Selected Option: (C) volunteer
+    Correct Option : (A) vagabond
+    Result         : [WRONG]
+
+18. [My Financial Career] My face was ghastly pale.
+    Underlined Word: "ghastly"
+    Selected Option: (B) Horribly
+    Correct Option : (B) Horribly
+    Result         : [CORRECT]
+
+19. [The Dying Sun] The planet earth gave birth to life.
+    Underlined Word: "gave birth to"
+    Selected Option: (A) Produced
+    Correct Option : (A) Produced
+    Result         : [CORRECT]
+
+20. [Why Boys Fail in College] Financial pressure is a very serious one.
+    Underlined Word: "Financial"
+    Selected Option: (D) Public
+    Correct Option : (C) Monetary
+    Result         : [WRONG]
+
+================================================================================
+
+================================================================================
+QUIZ ATTEMPT REPORT: ATT-748858
+================================================================================
+Date & Time    : 11/3/2026, 5:42:28 PM
+Candidate Name : Uzair Kaleem Ullah
+Total Score    : 7 / 20 (35.0%)
+Status         : FAILED (BELOW 50%)
+Time Taken     : 11m 0s (out of 30m 00s)
+--------------------------------------------------------------------------------
+QUESTION-BY-QUESTION BREAKDOWN:
+--------------------------------------------------------------------------------
+01. [Mustafa Kamal] Mustafa Kamal was making exceptionally good use of the freedom.
+    Underlined Word: "exceptionally"
+    Selected Option: (B) Unusually
+    Correct Option : (B) Unusually
+    Result         : [CORRECT]
+
+02. [The Man Who Was a Hospital] He sat and pondered over his problem.
+    Underlined Word: "pondered"
+    Selected Option: (C) ignored
+    Correct Option : (B) thought
+    Result         : [WRONG]
+
+03. [Hunger and Population Explosion] Many countries have carried out massive programmes to free their people of yaws.
+    Underlined Word: "carried out"
+    Selected Option: (D) Completed
+    Correct Option : (D) Completed
+    Result         : [CORRECT]
+
+04. [First Year at Harrow] I learnt English thoroughly.
+    Underlined Word: "thoroughly"
+    Selected Option: (D) completely
+    Correct Option : (D) completely
+    Result         : [CORRECT]
+
+05. [The Jewel of the World] It received envoys from the Byzantine emperor.
+    Underlined Word: "envoys"
+    Selected Option: (B) Gifts
+    Correct Option : (C) Diplomats
+    Result         : [WRONG]
+
+06. [Louis Pasteur] Besancon was a bigger place with better educational provision:
+    Underlined Word: "provision"
+    Selected Option: (B) Hurdle
+    Correct Option : (A) Arrangement
+    Result         : [WRONG]
+
+07. [Hunger and Population Explosion] A tremendous population explosion is taking place.
+    Underlined Word: "tremendous"
+    Selected Option: (D) glorious
+    Correct Option : (C) big
+    Result         : [WRONG]
+
+08. [The Jewel of the World] Afoot, friendless and penniless, he set out south-east word.
+    Underlined Word: "penniless"
+    Selected Option: (D) Poor
+    Correct Option : (D) Poor
+    Result         : [CORRECT]
+
+09. [Mustafa Kamal] Padishah himself was eager to collaborate with all Allies.
+    Underlined Word: "eager"
+    Selected Option: (C) Gloomy
+    Correct Option : (A) Keen
+    Result         : [WRONG]
+
+10. [Mustafa Kamal] The Turks were infuriated by the occupants.
+    Underlined Word: "infuriated"
+    Selected Option: (D) Encouraged
+    Correct Option : (B) Enraged
+    Result         : [WRONG]
+
+11. [Hunger and Population Explosion] Thousands even millions will die of starvation because of famines caused by lack of rain.
+    Underlined Word: "starvation"
+    Selected Option: (D) sacrifice
+    Correct Option : (A) hunger
+    Result         : [WRONG]
+
+12. [Mustafa Kamal] Allies dissolved the national assembly.
+    Underlined Word: "dissolved"
+    Selected Option: (A) Meditated
+    Correct Option : (D) Abolished
+    Result         : [WRONG]
+
+13. [My Financial Career] He crossed the threshold of the banks.
+    Underlined Word: "threshold"
+    Selected Option: (B) Limits
+    Correct Option : (C) Doorstep
+    Result         : [WRONG]
+
+14. [Mustafa Kamal] Nor was Mustafa Kamal a lenient master.
+    Underlined Word: "lenient"
+    Selected Option: (C) cruel
+    Correct Option : (D) soft
+    Result         : [WRONG]
+
+15. [Mustafa Kamal] There was a disbanded Turkish army corps at Diyarbakir.
+    Underlined Word: "disbanded"
+    Selected Option: (A) Scattered
+    Correct Option : (A) Scattered
+    Result         : [CORRECT]
+
+16. [First Year at Harrow] The examiner's will prevailed.
+    Underlined Word: "prevailed"
+    Selected Option: (B) Failed
+    Correct Option : (C) Succeeded
+    Result         : [WRONG]
+
+17. [End of Term] Waking up in the morning and seeing the hours of school stretching ahead was a dismal experience.
+    Underlined Word: "dismal"
+    Selected Option: (D) Disappointing
+    Correct Option : (D) Disappointing
+    Result         : [CORRECT]
+
+18. [End of Term] Occasionally, they would get a whole day for skating.
+    Underlined Word: "Occasionally"
+    Selected Option: (B) Briefly
+    Correct Option : (A) Sometimes
+    Result         : [WRONG]
+
+19. [Louis Pasteur] It is impossible to catalogue the list of his discoveries.
+    Underlined Word: "catalogue"
+    Selected Option: (B) compile
+    Correct Option : (B) compile
+    Result         : [CORRECT]
+
+20. [My Financial Career] In my agony of decision, I left the embankment.
+    Underlined Word: "agony"
+    Selected Option: (A) Pleasure
+    Correct Option : (B) Pangs
+    Result         : [WRONG]
+
+================================================================================
+
+================================================================================
+QUIZ ATTEMPT REPORT: ATT-566819
+================================================================================
+Date & Time    : 11/3/2026, 5:56:06 PM
+Candidate Name : Uzair Kaleem Ullah
+Total Score    : 5 / 20 (25.0%)
+Status         : FAILED (BELOW 50%)
+Time Taken     : 9m 13s (out of 30m 00s)
+--------------------------------------------------------------------------------
+QUESTION-BY-QUESTION BREAKDOWN:
+--------------------------------------------------------------------------------
+01. [Hunger and Population Explosion] A tremendous population explosion is taking place.
+    Underlined Word: "tremendous"
+    Selected Option: (C) big
+    Correct Option : (C) big
+    Result         : [CORRECT]
+
+02. [Good-bye, Mr. Chips] He remembered Brookfield.
+    Underlined Word: "Brookfield"
+    Selected Option: (C) Renowned
+    Correct Option : (A) Great
+    Result         : [WRONG]
+
+03. [Hitch-Hiking Across the Sahara] The driver picked his way with uncanny skill.
+    Underlined Word: "uncanny"
+    Selected Option: (A) Simple
+    Correct Option : (D) Remarkable
+    Result         : [WRONG]
+
+04. [Sir Alexander Fleming] And in the same year he hit on penicillin.
+    Underlined Word: "hit on"
+    Selected Option: (A) Saw
+    Correct Option : (D) Discovered
+    Result         : [WRONG]
+
+05. [Mustafa Kamal] The Turks vowed that death was preferable to rule by Greeks.
+    Underlined Word: "vowed"
+    Selected Option: (C) Repeated
+    Correct Option : (A) Swore
+    Result         : [WRONG]
+
+06. [Louis Pasteur] Pasteur's father bought a small tannery.
+    Underlined Word: "tannery"
+    Selected Option: (A) A place where tanning is carried on
+    Correct Option : (A) A place where tanning is carried on
+    Result         : [CORRECT]
+
+07. [First Year at Harrow] The examiners were partial to Latin and Mathematics.
+    Underlined Word: "partial"
+    Selected Option: (C) Biased
+    Correct Option : (C) Biased
+    Result         : [CORRECT]
+
+08. [My Financial Career] I came from a rival agency.
+    Underlined Word: "rival"
+    Selected Option: (B) secret
+    Correct Option : (C) opponent
+    Result         : [WRONG]
+
+09. [End of Term] Some holidays were reduced to a mere ten days:
+    Underlined Word: "mere"
+    Selected Option: (A) Only
+    Correct Option : (A) Only
+    Result         : [CORRECT]
+
+10. [On Destroying Books] I fancied he looked suspicious.
+    Underlined Word: "suspicious"
+    Selected Option: (A) comforted
+    Correct Option : (C) doubtful
+    Result         : [WRONG]
+
+11. [Using the Scientific Method] There is a little likelihood of their getting disease.
+    Underlined Word: "likelihood"
+    Selected Option: (A) liking
+    Correct Option : (D) probability
+    Result         : [WRONG]
+
+12. [Mustafa Kamal] The guns began almost instantly.
+    Underlined Word: "instantly"
+    Selected Option: (B) Slightly
+    Correct Option : (D) Immediately
+    Result         : [WRONG]
+
+13. [Why Boys Fail in College] There is no substitute for health.
+    Underlined Word: "substitute"
+    Selected Option: (C) aptitude
+    Correct Option : (B) alternative
+    Result         : [WRONG]
+
+14. [Sir Alexander Fleming] Metchnikoff, a pupil of Pasteur, revealed the true nature of the problem.
+    Underlined Word: "revealed"
+    Selected Option: (D) appreciated
+    Correct Option : (A) showed
+    Result         : [WRONG]
+
+15. [Louis Pasteur] He never shook off the physical effects of the disease.
+    Underlined Word: "shook off"
+    Selected Option: (D) Got rid of
+    Correct Option : (D) Got rid of
+    Result         : [CORRECT]
+
+16. [The Jewel of the World] It took him some years more to bring all of Spain to subjection, but he persisted.
+    Underlined Word: "persisted"
+    Selected Option: (C) perished
+    Correct Option : (A) continued
+    Result         : [WRONG]
+
+17. [Why Boys Fail in College] Any parent owes this much his son.
+    Underlined Word: "owes"
+    Selected Option: (A) Tells
+    Correct Option : (C) Indebted
+    Result         : [WRONG]
+
+18. [Good-bye, Mr. Chips] Chips was quiet.
+    Underlined Word: "quiet"
+    Selected Option: (B) Noisy
+    Correct Option : (A) Calm
+    Result         : [WRONG]
+
+19. [Mustafa Kamal] Allies dissolved the national assembly.
+    Underlined Word: "dissolved"
+    Selected Option: (A) Meditated
+    Correct Option : (D) Abolished
+    Result         : [WRONG]
+
+20. [China's Way to Progress] Cultural revolution freed China from cumbersome bureaucracy.
+    Underlined Word: "cumbersome"
+    Selected Option: (B) light
+    Correct Option : (C) burdensome
+    Result         : [WRONG]
+
+================================================================================
+
+================================================================================
+QUIZ ATTEMPT REPORT: ATT-930329
+================================================================================
+Date & Time    : 11/3/2026, 6:02:10 PM
+Candidate Name : Uzair Kaleem Ullah
+Total Score    : 8 / 20 (40.0%)
+Status         : FAILED (BELOW 50%)
+Time Taken     : 5m 54s (out of 30m 00s)
+--------------------------------------------------------------------------------
+QUESTION-BY-QUESTION BREAKDOWN:
+--------------------------------------------------------------------------------
+01. [Louis Pasteur] Formerly there was the eye with morbific powers.
+    Underlined Word: "morbific"
+    Selected Option: (B) Causing disease
+    Correct Option : (B) Causing disease
+    Result         : [CORRECT]
+
+02. [The Man Who Was a Hospital] It was some devastating scourge I thought I had.
+    Underlined Word: "scourge"
+    Selected Option: (A) Building
+    Correct Option : (C) Curse
+    Result         : [WRONG]
+
+03. [First Year at Harrow] They were almost invariably those I fancied least.
+    Underlined Word: "invariably"
+    Selected Option: (D) generally
+    Correct Option : (C) always
+    Result         : [WRONG]
+
+04. [Hitch-Hiking Across the Sahara] It was stifling in driver's cabin.
+    Underlined Word: "stifling"
+    Selected Option: (B) comforting
+    Correct Option : (D) suffocating
+    Result         : [WRONG]
+
+05. [On Destroying Books] In all probability they would think it was a baby boy.
+    Underlined Word: "probability"
+    Selected Option: (D) likelihood
+    Correct Option : (D) likelihood
+    Result         : [CORRECT]
+
+06. [On Destroying Books] I fancied he looked suspicious.
+    Underlined Word: "suspicious"
+    Selected Option: (C) doubtful
+    Correct Option : (C) doubtful
+    Result         : [CORRECT]
+
+07. [Using the Scientific Method] Quick-freeze method keeps food nutritious.
+    Underlined Word: "nutritious"
+    Selected Option: (B) Stinking
+    Correct Option : (C) Wholesome
+    Result         : [WRONG]
+
+08. [First Year at Harrow] I learnt English thoroughly.
+    Underlined Word: "thoroughly"
+    Selected Option: (D) completely
+    Correct Option : (D) completely
+    Result         : [CORRECT]
+
+09. [Sir Alexander Fleming] Metchnikoff discovered the body's natural armour against disease.
+    Underlined Word: "armour"
+    Selected Option: (C) medicine
+    Correct Option : (B) shield
+    Result         : [WRONG]
+
+10. [Hitch-Hiking Across the Sahara] He was firmly gripped by the wanderlust.
+    Underlined Word: "wanderlust"
+    Selected Option: (A) hungry
+    Correct Option : (D) desire for travelling
+    Result         : [WRONG]
+
+11. [On Destroying Books] Flashing his lantern on the catches of the basement windows.
+    Underlined Word: "basement"
+    Selected Option: (B) Attic
+    Correct Option : (D) Cellar
+    Result         : [WRONG]
+
+12. [My Financial Career] I came from a rival agency.
+    Underlined Word: "rival"
+    Selected Option: (B) secret
+    Correct Option : (C) opponent
+    Result         : [WRONG]
+
+13. [Mustafa Kamal] The authorities of Istanbul issued orders for the ship to be intercepted.
+    Underlined Word: "intercepted"
+    Selected Option: (D) obstructed
+    Correct Option : (D) obstructed
+    Result         : [CORRECT]
+
+14. [Sir Alexander Fleming] Lysozyme was the forerunner of penicillin.
+    Underlined Word: "forerunner"
+    Selected Option: (A) Forefather
+    Correct Option : (B) Harbinger
+    Result         : [WRONG]
+
+15. [My Financial Career] I looked down into the faintly luminous swirls of the river.
+    Underlined Word: "luminous"
+    Selected Option: (C) Shining
+    Correct Option : (C) Shining
+    Result         : [CORRECT]
+
+16. [Using the Scientific Method] Today we are more critical than our forefathers.
+    Underlined Word: "forefathers"
+    Selected Option: (C) rulers
+    Correct Option : (D) ancestors
+    Result         : [WRONG]
+
+17. [Hunger and Population Explosion] Muscles are destroyed and bones deformed.
+    Underlined Word: "deformed"
+    Selected Option: (B) De-shaped
+    Correct Option : (B) De-shaped
+    Result         : [CORRECT]
+
+18. [Louis Pasteur] Pasteur was filled with loathing of Germany.
+    Underlined Word: "loathing"
+    Selected Option: (D) Patriotism
+    Correct Option : (B) Hatred
+    Result         : [WRONG]
+
+19. [On Destroying Books] When I reached it I knelt on the seat.
+    Underlined Word: "knelt"
+    Selected Option: (D) Fell
+    Correct Option : (A) Leaned
+    Result         : [WRONG]
+
+20. [Using the Scientific Method] Now people are less likely to accept conclusions as final.
+    Underlined Word: "likely"
+    Selected Option: (A) Prone
+    Correct Option : (A) Prone
+    Result         : [CORRECT]
+
+================================================================================
+
+================================================================================
+QUIZ ATTEMPT REPORT: ATT-534345
+================================================================================
+Date & Time    : 11/3/2026, 6:12:14 PM
+Candidate Name : Uzair Kaleem Ullah
+Total Score    : 9 / 20 (45.0%)
+Status         : FAILED (BELOW 50%)
+Time Taken     : 6m 43s (out of 30m 00s)
+--------------------------------------------------------------------------------
+QUESTION-BY-QUESTION BREAKDOWN:
+--------------------------------------------------------------------------------
+01. [Mustafa Kamal] In Eastern Anatolia week by week little encounters increased.
+    Underlined Word: "encounters"
+    Selected Option: (D) Distance
+    Correct Option : (C) Skirmishes
+    Result         : [WRONG]
+
+02. [Hunger and Population Explosion] A tremendous population explosion is taking place.
+    Underlined Word: "tremendous"
+    Selected Option: (C) big
+    Correct Option : (C) big
+    Result         : [CORRECT]
+
+03. [Good-bye, Mr. Chips] Baiting the new master was exciting.
+    Underlined Word: "Baiting"
+    Selected Option: (D) Obeying
+    Correct Option : (A) Teasing
+    Result         : [WRONG]
+
+04. [Using the Scientific Method] Science has improved the way we spend our leisure time.
+    Underlined Word: "leisure"
+    Selected Option: (C) spare
+    Correct Option : (C) spare
+    Result         : [CORRECT]
+
+05. [End of Term] Waking up in the morning and seeing the hours of school stretching ahead was a dismal experience.
+    Underlined Word: "dismal"
+    Selected Option: (A) Tough
+    Correct Option : (D) Disappointing
+    Result         : [WRONG]
+
+06. [Louis Pasteur] Pasteur found the treatment of hydrophobia.
+    Underlined Word: "hydrophobia"
+    Selected Option: (D) typhoid
+    Correct Option : (C) rabies
+    Result         : [WRONG]
+
+07. [Sir Alexander Fleming] Lister's aim was the prevention of disease.
+    Underlined Word: "prevention"
+    Selected Option: (B) cure/protection
+    Correct Option : (C) Avoidance
+    Result         : [WRONG]
+
+08. [Good-bye, Mr. Chips] Chips remembered that event.
+    Underlined Word: "event"
+    Selected Option: (C) Incident
+    Correct Option : (C) Incident
+    Result         : [CORRECT]
+
+09. [China's Way to Progress] The Chinese peasant does not flee to the cities.
+    Underlined Word: "flee"
+    Selected Option: (B) escape
+    Correct Option : (B) escape
+    Result         : [CORRECT]
+
+10. [Hitch-Hiking Across the Sahara] He was firmly gripped by the wanderlust.
+    Underlined Word: "wanderlust"
+    Selected Option: (D) desire for travelling
+    Correct Option : (D) desire for travelling
+    Result         : [CORRECT]
+
+11. [China's Way to Progress] The occidental countries launched a warm hug to China.
+    Underlined Word: "occidental"
+    Selected Option: (B) Southern
+    Correct Option : (D) Western
+    Result         : [WRONG]
+
+12. [The Jewel of the World] Abdul Rehman administered the people with sagacity.
+    Underlined Word: "sagacity"
+    Selected Option: (A) wisdom
+    Correct Option : (A) wisdom
+    Result         : [CORRECT]
+
+13. [First Year at Harrow] The examiners sought to expose the ignorance of the writer.
+    Underlined Word: "expose"
+    Selected Option: (C) Appreciate
+    Correct Option : (D) Show
+    Result         : [WRONG]
+
+14. [Why Boys Fail in College] Boys undergoing transfusion of blood to get money for their food and books.
+    Underlined Word: "transfusion"
+    Selected Option: (C) Transfer
+    Correct Option : (C) Transfer
+    Result         : [CORRECT]
+
+15. [Hitch-Hiking Across the Sahara] The conditions were agonizing.
+    Underlined Word: "agonizing"
+    Selected Option: (B) Painful
+    Correct Option : (C) painful
+    Result         : [WRONG]
+
+16. [Good-bye, Mr. Chips] Chips was quiet.
+    Underlined Word: "quiet"
+    Selected Option: (D) Shouting
+    Correct Option : (A) Calm
+    Result         : [WRONG]
+
+17. [My Financial Career] He crossed the threshold of the banks.
+    Underlined Word: "threshold"
+    Selected Option: (C) Doorstep
+    Correct Option : (C) Doorstep
+    Result         : [CORRECT]
+
+18. [Louis Pasteur] Pasteur proved that spontaneous generation was not a fact.
+    Underlined Word: "spontaneous"
+    Selected Option: (B) Inactive
+    Correct Option : (D) Automatic
+    Result         : [WRONG]
+
+19. [China's Way to Progress] Political control over the masses stopped the exodus from the countryside.
+    Underlined Word: "exodus"
+    Selected Option: (A) reach
+    Correct Option : (C) migration
+    Result         : [WRONG]
+
+20. [Louis Pasteur] Pasteur's father bought a small tannery.
+    Underlined Word: "tannery"
+    Selected Option: (A) A place where tanning is carried on
+    Correct Option : (A) A place where tanning is carried on
+    Result         : [CORRECT]
+
+================================================================================

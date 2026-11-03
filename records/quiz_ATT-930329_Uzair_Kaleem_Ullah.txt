@@ -1,0 +1,133 @@
+
+================================================================================
+QUIZ ATTEMPT REPORT: ATT-930329
+================================================================================
+Date & Time    : 11/3/2026, 6:02:10 PM
+Candidate Name : Uzair Kaleem Ullah
+Total Score    : 8 / 20 (40.0%)
+Status         : FAILED (BELOW 50%)
+Time Taken     : 5m 54s (out of 30m 00s)
+--------------------------------------------------------------------------------
+QUESTION-BY-QUESTION BREAKDOWN:
+--------------------------------------------------------------------------------
+01. [Louis Pasteur] Formerly there was the eye with morbific powers.
+    Underlined Word: "morbific"
+    Selected Option: (B) Causing disease
+    Correct Option : (B) Causing disease
+    Result         : [CORRECT]
+
+02. [The Man Who Was a Hospital] It was some devastating scourge I thought I had.
+    Underlined Word: "scourge"
+    Selected Option: (A) Building
+    Correct Option : (C) Curse
+    Result         : [WRONG]
+
+03. [First Year at Harrow] They were almost invariably those I fancied least.
+    Underlined Word: "invariably"
+    Selected Option: (D) generally
+    Correct Option : (C) always
+    Result         : [WRONG]
+
+04. [Hitch-Hiking Across the Sahara] It was stifling in driver's cabin.
+    Underlined Word: "stifling"
+    Selected Option: (B) comforting
+    Correct Option : (D) suffocating
+    Result         : [WRONG]
+
+05. [On Destroying Books] In all probability they would think it was a baby boy.
+    Underlined Word: "probability"
+    Selected Option: (D) likelihood
+    Correct Option : (D) likelihood
+    Result         : [CORRECT]
+
+06. [On Destroying Books] I fancied he looked suspicious.
+    Underlined Word: "suspicious"
+    Selected Option: (C) doubtful
+    Correct Option : (C) doubtful
+    Result         : [CORRECT]
+
+07. [Using the Scientific Method] Quick-freeze method keeps food nutritious.
+    Underlined Word: "nutritious"
+    Selected Option: (B) Stinking
+    Correct Option : (C) Wholesome
+    Result         : [WRONG]
+
+08. [First Year at Harrow] I learnt English thoroughly.
+    Underlined Word: "thoroughly"
+    Selected Option: (D) completely
+    Correct Option : (D) completely
+    Result         : [CORRECT]
+
+09. [Sir Alexander Fleming] Metchnikoff discovered the body's natural armour against disease.
+    Underlined Word: "armour"
+    Selected Option: (C) medicine
+    Correct Option : (B) shield
+    Result         : [WRONG]
+
+10. [Hitch-Hiking Across the Sahara] He was firmly gripped by the wanderlust.
+    Underlined Word: "wanderlust"
+    Selected Option: (A) hungry
+    Correct Option : (D) desire for travelling
+    Result         : [WRONG]
+
+11. [On Destroying Books] Flashing his lantern on the catches of the basement windows.
+    Underlined Word: "basement"
+    Selected Option: (B) Attic
+    Correct Option : (D) Cellar
+    Result         : [WRONG]
+
+12. [My Financial Career] I came from a rival agency.
+    Underlined Word: "rival"
+    Selected Option: (B) secret
+    Correct Option : (C) opponent
+    Result         : [WRONG]
+
+13. [Mustafa Kamal] The authorities of Istanbul issued orders for the ship to be intercepted.
+    Underlined Word: "intercepted"
+    Selected Option: (D) obstructed
+    Correct Option : (D) obstructed
+    Result         : [CORRECT]
+
+14. [Sir Alexander Fleming] Lysozyme was the forerunner of penicillin.
+    Underlined Word: "forerunner"
+    Selected Option: (A) Forefather
+    Correct Option : (B) Harbinger
+    Result         : [WRONG]
+
+15. [My Financial Career] I looked down into the faintly luminous swirls of the river.
+    Underlined Word: "luminous"
+    Selected Option: (C) Shining
+    Correct Option : (C) Shining
+    Result         : [CORRECT]
+
+16. [Using the Scientific Method] Today we are more critical than our forefathers.
+    Underlined Word: "forefathers"
+    Selected Option: (C) rulers
+    Correct Option : (D) ancestors
+    Result         : [WRONG]
+
+17. [Hunger and Population Explosion] Muscles are destroyed and bones deformed.
+    Underlined Word: "deformed"
+    Selected Option: (B) De-shaped
+    Correct Option : (B) De-shaped
+    Result         : [CORRECT]
+
+18. [Louis Pasteur] Pasteur was filled with loathing of Germany.
+    Underlined Word: "loathing"
+    Selected Option: (D) Patriotism
+    Correct Option : (B) Hatred
+    Result         : [WRONG]
+
+19. [On Destroying Books] When I reached it I knelt on the seat.
+    Underlined Word: "knelt"
+    Selected Option: (D) Fell
+    Correct Option : (A) Leaned
+    Result         : [WRONG]
+
+20. [Using the Scientific Method] Now people are less likely to accept conclusions as final.
+    Underlined Word: "likely"
+    Selected Option: (A) Prone
+    Correct Option : (A) Prone
+    Result         : [CORRECT]
+
+================================================================================

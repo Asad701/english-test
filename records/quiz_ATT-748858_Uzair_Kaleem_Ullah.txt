@@ -1,0 +1,133 @@
+
+================================================================================
+QUIZ ATTEMPT REPORT: ATT-748858
+================================================================================
+Date & Time    : 11/3/2026, 5:42:28 PM
+Candidate Name : Uzair Kaleem Ullah
+Total Score    : 7 / 20 (35.0%)
+Status         : FAILED (BELOW 50%)
+Time Taken     : 11m 0s (out of 30m 00s)
+--------------------------------------------------------------------------------
+QUESTION-BY-QUESTION BREAKDOWN:
+--------------------------------------------------------------------------------
+01. [Mustafa Kamal] Mustafa Kamal was making exceptionally good use of the freedom.
+    Underlined Word: "exceptionally"
+    Selected Option: (B) Unusually
+    Correct Option : (B) Unusually
+    Result         : [CORRECT]
+
+02. [The Man Who Was a Hospital] He sat and pondered over his problem.
+    Underlined Word: "pondered"
+    Selected Option: (C) ignored
+    Correct Option : (B) thought
+    Result         : [WRONG]
+
+03. [Hunger and Population Explosion] Many countries have carried out massive programmes to free their people of yaws.
+    Underlined Word: "carried out"
+    Selected Option: (D) Completed
+    Correct Option : (D) Completed
+    Result         : [CORRECT]
+
+04. [First Year at Harrow] I learnt English thoroughly.
+    Underlined Word: "thoroughly"
+    Selected Option: (D) completely
+    Correct Option : (D) completely
+    Result         : [CORRECT]
+
+05. [The Jewel of the World] It received envoys from the Byzantine emperor.
+    Underlined Word: "envoys"
+    Selected Option: (B) Gifts
+    Correct Option : (C) Diplomats
+    Result         : [WRONG]
+
+06. [Louis Pasteur] Besancon was a bigger place with better educational provision:
+    Underlined Word: "provision"
+    Selected Option: (B) Hurdle
+    Correct Option : (A) Arrangement
+    Result         : [WRONG]
+
+07. [Hunger and Population Explosion] A tremendous population explosion is taking place.
+    Underlined Word: "tremendous"
+    Selected Option: (D) glorious
+    Correct Option : (C) big
+    Result         : [WRONG]
+
+08. [The Jewel of the World] Afoot, friendless and penniless, he set out south-east word.
+    Underlined Word: "penniless"
+    Selected Option: (D) Poor
+    Correct Option : (D) Poor
+    Result         : [CORRECT]
+
+09. [Mustafa Kamal] Padishah himself was eager to collaborate with all Allies.
+    Underlined Word: "eager"
+    Selected Option: (C) Gloomy
+    Correct Option : (A) Keen
+    Result         : [WRONG]
+
+10. [Mustafa Kamal] The Turks were infuriated by the occupants.
+    Underlined Word: "infuriated"
+    Selected Option: (D) Encouraged
+    Correct Option : (B) Enraged
+    Result         : [WRONG]
+
+11. [Hunger and Population Explosion] Thousands even millions will die of starvation because of famines caused by lack of rain.
+    Underlined Word: "starvation"
+    Selected Option: (D) sacrifice
+    Correct Option : (A) hunger
+    Result         : [WRONG]
+
+12. [Mustafa Kamal] Allies dissolved the national assembly.
+    Underlined Word: "dissolved"
+    Selected Option: (A) Meditated
+    Correct Option : (D) Abolished
+    Result         : [WRONG]
+
+13. [My Financial Career] He crossed the threshold of the banks.
+    Underlined Word: "threshold"
+    Selected Option: (B) Limits
+    Correct Option : (C) Doorstep
+    Result         : [WRONG]
+
+14. [Mustafa Kamal] Nor was Mustafa Kamal a lenient master.
+    Underlined Word: "lenient"
+    Selected Option: (C) cruel
+    Correct Option : (D) soft
+    Result         : [WRONG]
+
+15. [Mustafa Kamal] There was a disbanded Turkish army corps at Diyarbakir.
+    Underlined Word: "disbanded"
+    Selected Option: (A) Scattered
+    Correct Option : (A) Scattered
+    Result         : [CORRECT]
+
+16. [First Year at Harrow] The examiner's will prevailed.
+    Underlined Word: "prevailed"
+    Selected Option: (B) Failed
+    Correct Option : (C) Succeeded
+    Result         : [WRONG]
+
+17. [End of Term] Waking up in the morning and seeing the hours of school stretching ahead was a dismal experience.
+    Underlined Word: "dismal"
+    Selected Option: (D) Disappointing
+    Correct Option : (D) Disappointing
+    Result         : [CORRECT]
+
+18. [End of Term] Occasionally, they would get a whole day for skating.
+    Underlined Word: "Occasionally"
+    Selected Option: (B) Briefly
+    Correct Option : (A) Sometimes
+    Result         : [WRONG]
+
+19. [Louis Pasteur] It is impossible to catalogue the list of his discoveries.
+    Underlined Word: "catalogue"
+    Selected Option: (B) compile
+    Correct Option : (B) compile
+    Result         : [CORRECT]
+
+20. [My Financial Career] In my agony of decision, I left the embankment.
+    Underlined Word: "agony"
+    Selected Option: (A) Pleasure
+    Correct Option : (B) Pangs
+    Result         : [WRONG]
+
+================================================================================

@@ -1,0 +1,133 @@
+
+================================================================================
+QUIZ ATTEMPT REPORT: ATT-744110
+================================================================================
+Date & Time    : 11/3/2026, 5:25:43 PM
+Candidate Name : Uzair Kaleem Ullah
+Total Score    : 5 / 20 (25.0%)
+Status         : FAILED (BELOW 50%)
+Time Taken     : 7m 54s (out of 30m 00s)
+--------------------------------------------------------------------------------
+QUESTION-BY-QUESTION BREAKDOWN:
+--------------------------------------------------------------------------------
+01. [Why Boys Fail in College] The parents whom I have offended usually come back.
+    Underlined Word: "offended"
+    Selected Option: (C) Frightened
+    Correct Option : (D) Annoyed
+    Result         : [WRONG]
+
+02. [Using the Scientific Method] All of us have benefitted greatly from the use of scientific method.
+    Underlined Word: "benefitted"
+    Selected Option: (B) Profited
+    Correct Option : (B) Profited
+    Result         : [CORRECT]
+
+03. [Good-bye, Mr. Chips] The boys looked like rascals.
+    Underlined Word: "rascals"
+    Selected Option: (A) Rascals
+    Correct Option : (B) Scoundrels
+    Result         : [WRONG]
+
+04. [First Year at Harrow] I continued in this unpretentious situation.
+    Underlined Word: "unpretentious"
+    Selected Option: (B) unpleasant
+    Correct Option : (D) Unassuming
+    Result         : [WRONG]
+
+05. [Good-bye, Mr. Chips] Chips remembered that event.
+    Underlined Word: "event"
+    Selected Option: (C) Incident
+    Correct Option : (C) Incident
+    Result         : [CORRECT]
+
+06. [Why Boys Fail in College] There is no substitute for health.
+    Underlined Word: "substitute"
+    Selected Option: (A) attitude
+    Correct Option : (B) alternative
+    Result         : [WRONG]
+
+07. [Why Boys Fail in College] Most colleges do all they can with scholarship funds to alleviate this situation.
+    Underlined Word: "alleviate"
+    Selected Option: (C) Arrest
+    Correct Option : (A) Assuage
+    Result         : [WRONG]
+
+08. [First Year at Harrow] But the only thing I would whip them for is not knowing English.
+    Underlined Word: "whip"
+    Selected Option: (D) Criticize
+    Correct Option : (C) Punish
+    Result         : [WRONG]
+
+09. [Hunger and Population Explosion] One of the first records of famine was carved in Granite.
+    Underlined Word: "carved"
+    Selected Option: (A) Engraved
+    Correct Option : (A) Engraved
+    Result         : [CORRECT]
+
+10. [Sir Alexander Fleming] Fleming was not happy in the lime-light.
+    Underlined Word: "lime-light"
+    Selected Option: (A) money
+    Correct Option : (B) fame
+    Result         : [WRONG]
+
+11. [First Year at Harrow] The talented students won prizes for writing pithy Greek epigrams.
+    Underlined Word: "pithy"
+    Selected Option: (C) Easy
+    Correct Option : (B) Concise
+    Result         : [WRONG]
+
+12. [The Dying Sun] Stretches of space beyond the Milky Way.
+    Underlined Word: "Milky Way"
+    Selected Option: (A) The marks
+    Correct Option : (B) Collection of stars
+    Result         : [WRONG]
+
+13. [The Dying Sun] Gradually they became cooler.
+    Underlined Word: "Gradually"
+    Selected Option: (C) Systematically
+    Correct Option : (D) Slowly and by degrees
+    Result         : [WRONG]
+
+14. [The Man Who Was a Hospital] Zymosis I had evidently been suffering from boyhood.
+    Underlined Word: "evidently"
+    Selected Option: (C) Secretly
+    Correct Option : (D) Clearly
+    Result         : [WRONG]
+
+15. [First Year at Harrow] I learnt English thoroughly.
+    Underlined Word: "thoroughly"
+    Selected Option: (A) specially
+    Correct Option : (D) completely
+    Result         : [WRONG]
+
+16. [Sir Alexander Fleming] Fleming plated the mould on meat broth.
+    Underlined Word: "broth"
+    Selected Option: (D) Suite
+    Correct Option : (A) Soup
+    Result         : [WRONG]
+
+17. [On Destroying Books] The pedestrian was only a tramp.
+    Underlined Word: "tramp"
+    Selected Option: (C) volunteer
+    Correct Option : (A) vagabond
+    Result         : [WRONG]
+
+18. [My Financial Career] My face was ghastly pale.
+    Underlined Word: "ghastly"
+    Selected Option: (B) Horribly
+    Correct Option : (B) Horribly
+    Result         : [CORRECT]
+
+19. [The Dying Sun] The planet earth gave birth to life.
+    Underlined Word: "gave birth to"
+    Selected Option: (A) Produced
+    Correct Option : (A) Produced
+    Result         : [CORRECT]
+
+20. [Why Boys Fail in College] Financial pressure is a very serious one.
+    Underlined Word: "Financial"
+    Selected Option: (D) Public
+    Correct Option : (C) Monetary
+    Result         : [WRONG]
+
+================================================================================
